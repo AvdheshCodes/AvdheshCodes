@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AvdheshCodes
+- 👋 Hi, I’m @avdheshCodes
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on learning C++
