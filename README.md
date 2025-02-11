@@ -1,4 +1,4 @@
-<img  alt="Coding" width="400" height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o5aWZ0Y2NiZDZsaDE2eTR4ZGRnd2k3cmJ0cGpmaHhmMHg2dzg5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
+<img  align="center" alt="Coding" width="800" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o5aWZ0Y2NiZDZsaDE2eTR4ZGRnd2k3cmJ0cGpmaHhmMHg2dzg5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
 <h1 align="center">Hi 👋, I'm Avdhesh Ghansela</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTk3b3pqcmEydjc2Njd6aHFpZ3o3YnpzcmN2N2xyd2V4djZ5Ym1mOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif>
